@@ -99,7 +99,6 @@ Age Group
 
 
 📷 Dashboard Preview
-(Insert screenshots from the images folder here)
 Example:
 ![Dashboard Overview](images/dashboard_overview.png)
 
