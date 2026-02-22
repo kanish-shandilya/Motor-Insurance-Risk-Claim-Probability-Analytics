@@ -1,4 +1,4 @@
-###Motor Insurance Risk & Claim Probability Analytics
+Motor Insurance Risk & Claim Probability Analytics
 📌 Project Overview
 Insurance businesses operate on risk. Even small improvements in identifying high-risk segments can significantly improve underwriting decisions and portfolio performance.
 This project analyzes a motor insurance dataset to understand claim frequency patterns across customer demographics, vehicle characteristics, and product segments. The goal was to identify risk concentration areas and build an executive-level dashboard that supports data-driven underwriting insights.
